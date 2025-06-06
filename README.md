@@ -71,6 +71,8 @@ DIAGRAMA ESQUETICO
 
 PROYECTO
 ![Proyecto](/imagenes/Proyecto.png)
+
+Conexion
 ![conexion](/imagenes/conexion.png)
 ## Codigos
 
@@ -81,5 +83,6 @@ PROYECTO
 ![Codigo l2c.c](/codigos/i2c_lcd.h)
 ![Codigo l2c.c](/codigos/i2c_lcd.c)
 ![main.c](/codigos/main.c)
+
 ## Conclusiones
 En conclusión se desarrolló un sistema automático de enfriamiento que nos permite controlar la activación de un ventilador mediante la función de temperatura medida en tiempo real, la cual se logra visualizar. Su diseño es utilizado con base en componentes electrónicos sencillos, demostrando la eficiencia y bajo costo para mantener una temperatura. Este tipo de sistema, como se mencionó anteriormente, es aplicable en diferentes áreas y puede fácilmente mejorarse según la necesidad de la persona.
