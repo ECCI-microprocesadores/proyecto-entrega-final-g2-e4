@@ -75,8 +75,10 @@ PROYECTO
 
 ![Codigo adc.c](/src/adc.c)
 ![Codigo adc.h](/src/adc.h)
-![Codigo lcd.c](/src/lcd.c)
-![Codigo lcd.c](/src/ldc.h)
+![Codigo i2c.c](/src/i2c.c)
+![Codigo l2c.c](/src/i2c.h)
+![Codigo l2c.c](/src/i2c_lcd.h)
+![Codigo l2c.c](/src/i2c_lcd.c)
 ![main.c](/src/main.c)
 ## Conclusiones
 En conclusión se desarrolló un sistema automático de enfriamiento que nos permite controlar la activación de un ventilador mediante la función de temperatura medida en tiempo real, la cual se logra visualizar. Su diseño es utilizado con base en componentes electrónicos sencillos, demostrando la eficiencia y bajo costo para mantener una temperatura. Este tipo de sistema, como se mencionó anteriormente, es aplicable en diferentes áreas y puede fácilmente mejorarse según la necesidad de la persona.
