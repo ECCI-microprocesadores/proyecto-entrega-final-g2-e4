@@ -63,22 +63,23 @@ Se usarán potenciómetros o boton para determinar el punto en que se encenderá
 
 ## Diagramas
 DIAGRAMA DE FLUJO
-![Diagrama de flujo](/Diagrama_de_Flujo.png)
+![Diagrama de flujo](/imagenes/Diagrama_de_Flujo.png)
 
 DIAGRAMA ESQUETICO 
 
-![Diagrama_Esquematico](/Diagrama_Esquematico.jpg)
+![Diagrama_Esquematico](/imagenes/Diagrama_Esquematico.jpg)
 
 PROYECTO
-![Proyecto](/Proyecto.png)
+![Proyecto](/imagenes/Proyecto.png)
+![conexion](/imagenes/conexion.png)
 ## Codigos
 
-![Codigo adc.c](/src/adc.c)
-![Codigo adc.h](/src/adc.h)
-![Codigo i2c.c](/src/i2c.c)
-![Codigo l2c.c](/src/i2c.h)
-![Codigo l2c.c](/src/i2c_lcd.h)
-![Codigo l2c.c](/src/i2c_lcd.c)
-![main.c](/src/main.c)
+![Codigo adc.c](/codigos/adc.c)
+![Codigo adc.h](/codigos/adc.h)
+![Codigo i2c.c](/codigos/i2c.c)
+![Codigo l2c.c](/codigos/i2c.h)
+![Codigo l2c.c](/codigos/i2c_lcd.h)
+![Codigo l2c.c](/codigos/i2c_lcd.c)
+![main.c](/codigos/main.c)
 ## Conclusiones
 En conclusión se desarrolló un sistema automático de enfriamiento que nos permite controlar la activación de un ventilador mediante la función de temperatura medida en tiempo real, la cual se logra visualizar. Su diseño es utilizado con base en componentes electrónicos sencillos, demostrando la eficiencia y bajo costo para mantener una temperatura. Este tipo de sistema, como se mencionó anteriormente, es aplicable en diferentes áreas y puede fácilmente mejorarse según la necesidad de la persona.
